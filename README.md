@@ -4,9 +4,8 @@ A simple and responsive first-person camera controller script for Unity, allowin
 
 ## Features  
 - **Mouse Look**: Rotate the camera based on mouse movement.  
-- **Clamp Rotation**: Restrict vertical rotation to prevent flipping.  
-- **Customizable Sensitivity**: Adjust camera rotation speed.  
-
+- **Clamp Rotation**: Restrict vertical rotation to prevent flipping.
+  
 ## Usage Instructions  
 1. Attach the script to the camera GameObject in your Unity scene.  
 2. Adjust the sensitivity values in the script or Inspector to suit your preferences.  
